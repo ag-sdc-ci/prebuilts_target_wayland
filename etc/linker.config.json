@@ -1,0 +1,38 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libwayland-client.a-x86_64-v2.so",
+		    "libdummy_binary_libwayland-client.a.so",
+		    "libdummy_binary_libwayland-cursor.a-x86_64-v2.so",
+		    "libdummy_binary_libwayland-cursor.a.so",
+		    "libdummy_binary_libwayland-egl.a-x86_64-v2.so",
+		    "libdummy_binary_libwayland-egl.a.so",
+		    "libdummy_binary_libwayland-server.a-x86_64-v2.so",
+		    "libdummy_binary_libwayland-server.a.so",
+		    "libdummy_binary_wayland-scanner-x86_64-v2.so",
+		    "libdummy_binary_wayland-scanner.so",
+		    "libdummy_ext_wayland-x86_64-v2.so",
+		    "libdummy_ext_wayland.so",
+		    "libdummy_headers_ext_wayland-x86_64-v2.so",
+		    "libdummy_headers_ext_wayland.so",
+		    "libdummy_pkgconfig_ext_wayland-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_wayland.so",
+		    "libdummy_shared_wayland-x86_64-v2.so",
+		    "libdummy_shared_wayland.so",
+		    "libwayland-client-x86_64-v2.so",
+		    "libwayland-client.so",
+		    "libwayland-cursor-x86_64-v2.so",
+		    "libwayland-cursor.so",
+		    "libwayland-egl-x86_64-v2.so",
+		    "libwayland-egl.so",
+		    "libwayland-server-x86_64-v2.so",
+		    "libwayland-server.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libc.so.6",
+		    "libexpat.so.1",
+		    "libffi.so.8",
+		    "libxml2.so.16"
+	],
+	"visible": true
+}
